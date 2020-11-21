@@ -1,0 +1,16 @@
+C:\Users\SMikuli\Desktop\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Infrastructure.deps.json
+C:\Users\SMikuli\Desktop\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Infrastructure.dll
+C:\Users\SMikuli\Desktop\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Infrastructure.pdb
+C:\Users\SMikuli\Desktop\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Application.dll
+C:\Users\SMikuli\Desktop\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Domain.dll
+C:\Users\SMikuli\Desktop\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Persistence.dll
+C:\Users\SMikuli\Desktop\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Application.pdb
+C:\Users\SMikuli\Desktop\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Domain.pdb
+C:\Users\SMikuli\Desktop\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Persistence.pdb
+C:\Users\SMikuli\Desktop\Reactivities\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.csprojAssemblyReference.cache
+C:\Users\SMikuli\Desktop\Reactivities\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\SMikuli\Desktop\Reactivities\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.AssemblyInfo.cs
+C:\Users\SMikuli\Desktop\Reactivities\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SMikuli\Desktop\Reactivities\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.csproj.CopyComplete
+C:\Users\SMikuli\Desktop\Reactivities\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.dll
+C:\Users\SMikuli\Desktop\Reactivities\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.pdb

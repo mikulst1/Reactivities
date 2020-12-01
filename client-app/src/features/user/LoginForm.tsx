@@ -2,7 +2,8 @@ import { FORM_ERROR } from 'final-form';
 import React, { useContext } from 'react';
 import {Form as FinalForm, Field} from 'react-final-form';
 import { combineValidators, isRequired } from 'revalidate';
-import { Button, Form, Label } from 'semantic-ui-react';
+import { Button, Form, Header } from 'semantic-ui-react';
+import { ErrorMessage } from '../../app/common/form/ErrorMessage';
 import TextInput from '../../app/common/form/TextInput';
 import { IUserFormValues } from '../../app/models/user';
 import { RootStoreContext } from '../../app/stores/rootStore';
@@ -24,13 +25,17 @@ export const LoginForm = () => {
             render={({
                 handleSubmit, 
                 submitting, 
-                form, 
                 submitError, 
                 invalid, 
                 pristine,
                 dirtySinceLastSubmit
             })=>(
-                <Form onSubmit={handleSubmit}>
+                <Form onSubmit={handleSubmit} error>
+                    <Header 
+                        as='h2' 
+                        content='Login to Reactivities' 
+                        color='teal' 
+                        textAlign='center'/>
                     <Field
                         name='email'
                         component={TextInput}
@@ -42,15 +47,19 @@ export const LoginForm = () => {
                         placeholder='Password'
                         type = 'password'
                     />
-                    {submitError && !dirtySinceLastSubmit &&
-                        <Label color = 'red'basic content={submitError.statusText}
-                    />}
+                    {submitError && !dirtySinceLastSubmit && (
+                        <ErrorMessage 
+                            error={submitError} 
+                            text='Invalid email or password'
+                        />
+                    )}
                     <Button 
                         disabled={(invalid && !dirtySinceLastSubmit) || pristine} 
                         loading={submitting} 
-                        positive content='Login' 
+                        color='teal'
+                        content='Login'
+                        fluid 
                     />
-                    <pre>{JSON.stringify(form.getState(), null, 2)}</pre>
                 </Form>
             )}
         />

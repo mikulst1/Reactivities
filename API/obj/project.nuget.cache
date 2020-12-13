@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OecmxdGpKSNhO+D2oLThsQgNL3FFMermSUiBhTFD/ya3tSpUJSgjeKSyHYC0mSTojK2pEgeVO8T2uHEZweyZZQ==",
+  "dgSpecHash": "p6/WDXZAkgCM4hgB3469wgbwWdPBzDwU/i8RJGt7uh6M9a8VzjPszzsXuyJDgWpM+toOxUuK5oa+134hBjtxYA==",
   "success": true,
   "projectFilePath": "C:\\Users\\SMikuli\\Desktop\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SMikuli\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\SMikuli\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",
     "C:\\Users\\SMikuli\\.nuget\\packages\\castle.core\\4.2.1\\castle.core.4.2.1.nupkg.sha512",
+    "C:\\Users\\SMikuli\\.nuget\\packages\\cloudinarydotnet\\1.8.0\\cloudinarydotnet.1.8.0.nupkg.sha512",
     "C:\\Users\\SMikuli\\.nuget\\packages\\fluentvalidation\\8.5.1\\fluentvalidation.8.5.1.nupkg.sha512",
     "C:\\Users\\SMikuli\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.5.1\\fluentvalidation.aspnetcore.8.5.1.nupkg.sha512",
     "C:\\Users\\SMikuli\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.5.1\\fluentvalidation.dependencyinjectionextensions.8.5.1.nupkg.sha512",

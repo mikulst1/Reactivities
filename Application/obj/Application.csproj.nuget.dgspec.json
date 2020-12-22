@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SMikuli\\Desktop\\Reactivities\\Application\\Application.csproj": {}
+    "C:\\Users\\stefm\\Desktop\\Project\\Reactivities\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SMikuli\\Desktop\\Reactivities\\Application\\Application.csproj": {
+    "C:\\Users\\stefm\\Desktop\\Project\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SMikuli\\Desktop\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\stefm\\Desktop\\Project\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\SMikuli\\Desktop\\Reactivities\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\SMikuli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SMikuli\\Desktop\\Reactivities\\Application\\obj\\",
+        "projectPath": "C:\\Users\\stefm\\Desktop\\Project\\Reactivities\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\stefm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stefm\\Desktop\\Project\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\SMikuli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\stefm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -27,17 +26,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://cat-artifactory.ra-int.com/artifactory/api/nuget/infoplatform-build-local": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\SMikuli\\Desktop\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\SMikuli\\Desktop\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\stefm\\Desktop\\Project\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\stefm\\Desktop\\Project\\Reactivities\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\SMikuli\\Desktop\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\SMikuli\\Desktop\\Reactivities\\Persistence\\Persistence.csproj"
+              "C:\\Users\\stefm\\Desktop\\Project\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\stefm\\Desktop\\Project\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -74,20 +72,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.0.1, 3.0.1]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -97,21 +81,20 @@
         }
       }
     },
-    "C:\\Users\\SMikuli\\Desktop\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\stefm\\Desktop\\Project\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SMikuli\\Desktop\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\stefm\\Desktop\\Project\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\SMikuli\\Desktop\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\SMikuli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SMikuli\\Desktop\\Reactivities\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\stefm\\Desktop\\Project\\Reactivities\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\stefm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stefm\\Desktop\\Project\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\SMikuli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\stefm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -120,8 +103,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://cat-artifactory.ra-int.com/artifactory/api/nuget/infoplatform-build-local": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
@@ -152,20 +134,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.0.1, 3.0.1]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -175,21 +143,20 @@
         }
       }
     },
-    "C:\\Users\\SMikuli\\Desktop\\Reactivities\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\stefm\\Desktop\\Project\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SMikuli\\Desktop\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\stefm\\Desktop\\Project\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\SMikuli\\Desktop\\Reactivities\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\SMikuli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SMikuli\\Desktop\\Reactivities\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\stefm\\Desktop\\Project\\Reactivities\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\stefm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stefm\\Desktop\\Project\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\SMikuli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\stefm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -198,14 +165,13 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://cat-artifactory.ra-int.com/artifactory/api/nuget/infoplatform-build-local": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\SMikuli\\Desktop\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\SMikuli\\Desktop\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\stefm\\Desktop\\Project\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\stefm\\Desktop\\Project\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
@@ -242,20 +208,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.0.1, 3.0.1]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

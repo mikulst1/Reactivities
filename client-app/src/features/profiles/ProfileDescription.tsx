@@ -13,7 +13,7 @@ export const ProfileDescription = () => {
                 <Grid.Column width={16}>
                     <Header
                         floated='left'
-                        icon='icon'
+                        icon='user'
                         content={`About ${profile!.username}`}
                     />
                     {isCurrentUser && (
